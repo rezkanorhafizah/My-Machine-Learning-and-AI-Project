@@ -1,4 +1,4 @@
-# My-Machine-Learning-and-AI-Project
+# 🚀My-Machine-Learning-and-AI-Project
 Machine Learning and AI Projects by me
 ![Introduction to Machine Learning](https://github.com/user-attachments/assets/b1a10857-8bbc-456b-9560-04699816cc8d)
 
