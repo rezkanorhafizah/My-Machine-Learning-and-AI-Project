@@ -13,5 +13,6 @@ Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=
 | 2     | House Price Prediction Linear Regression                     | [👆](https://www.kaggle.com/code/rezkanorhafizah/linear-regression-model) |
 | 3     | Student Performance Logistic Regression                      | [👆](https://colab.research.google.com/drive/1y4t1bjsiJXbeA-Qs-__aDCF3hQLCgb4r?usp=sharing)        |
 | 4     | Dropout-Prone Area Prediction Using Random Forest, Logistic Regression, XGBoost                               | [👆](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
+| 5     | Time Travel Prediction Using CatBoost Model                  | [👆](https://www.kaggle.com/code/rezkanorhafizah/travel-time-prediction-using-catbooster)|
 
 ***More Projects list is coming...!!!***
